@@ -1,1 +1,1 @@
-print("Hola perras cochinas"
+print("Hola")
